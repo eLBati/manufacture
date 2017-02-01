@@ -1,6 +1,6 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
-   :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
-   :alt: License: AGPL-3
+.. image:: https://img.shields.io/badge/licence-LGPL--3-blue.svg
+   :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
+   :alt: License: LGPL-3
 
 =================
 MRP Calendar View
@@ -28,12 +28,17 @@ help us smashing it by providing a detailed and welcomed feedback.
 Credits
 =======
 
+Images
+------
+
+* Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
+
 Contributors
 ------------
 
 * Nicola Malcontenti <nicola.malcontenti@agilebg.com>
 * Alessio Gerace <alessio.gerace@agilebg.com>
-* Odoo Community Association
+* Alex Comba <alex.comba@agilebg.com>
 
 Maintainer
 ----------

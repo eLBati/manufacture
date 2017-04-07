@@ -13,5 +13,5 @@ class mrp_repair(models.Model):
                               help="Person in charge for the repair")
     date_repair = fields.Datetime('Repair Date', default=fields.Datetime.now,
                                   copy=False,
-                                  help="Date of the repair, this field"
+                                  help="Date of the repair, this field "
                                   "and user_id defines the calendar")

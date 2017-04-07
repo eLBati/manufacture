@@ -4,7 +4,7 @@
 
 
 {
-    'name': 'MRP Calendar View',
+    'name': 'MRP Repair Calendar View',
     'version': '10.0.1.0.0',
     'category': 'Manufacturing',
     'author': "Agile Business Group, Odoo Community Association (OCA)",
